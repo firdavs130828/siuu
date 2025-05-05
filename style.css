@@ -1,0 +1,27 @@
+h1{
+    background-color: brown;
+    width: 550px;
+    text-align: center;
+    font-size: 60px;
+    margin: 0 auto;
+    color: white;
+  
+}
+body{
+    background-color: rgb(0, 85, 0);
+}
+.qora{
+    background-color: black;
+    border: 10px solid red;
+    width: 1000px;
+    height: 500px;
+    margin: 30px auto;
+    padding: 30px;
+}
+p{
+    background-color: rgb(31, 241, 241);
+    padding: 30px;
+    width: 900px;
+    height: 140px;
+    margin: 50px auto;
+}
